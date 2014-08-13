@@ -4,6 +4,7 @@ author: "JB"
 date: "August 13, 2014"
 output: html_document
 ---
+
 ##Introduction 
 
 Personal Tracking devices have gained much attention lately as they enable the user getting insights about his behavioral pattern and help find correlations between acivitity pattern, personal mood, sleep quality, and other indicators. For the current assignment I analyse the data of a tracking device. The variables "date", "interval" (id of each 5 minute interval thorughout a day) and "steps" (number of steps done during said interval) are analyzed. 
